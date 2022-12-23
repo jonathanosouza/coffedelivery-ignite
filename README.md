@@ -1,10 +1,8 @@
 # coffedelivery-ignite
-
-
-
-
 Aplicação criada como desafio do curso FrontEnd da Rocketseat!
+
 Skills Utilizadas:
+
 HTML
 CSS
 StyledComponent
@@ -14,22 +12,14 @@ Hoocks
 JSON-Server
 Desafio bem completo para apresentar diversos conhecimentos adiquiridos
 
+Demonstração
+![recording-2022-12-23-10-09-30](https://user-images.githubusercontent.com/36960606/209349395-497dc73d-2b42-4668-823f-6d3ca2c1a5a9.gif)
 
 
+Stack utilizada
+Front-end: React, Stylend-Components
 
+Back-end: Node, Express, TypeORM, Postgress
 
-
-
-
-![recording-2022-12-23-10-09-30](https://user-images.githubusercontent.com/36960606/209348740-29ae3fbc-4c35-43b5-8c45-f03e42773902.gif)
-
-
-
-
-
-
-
-
-Para instalar as dependências: yarn install 
-Para iniciar a aplicação (páginas) : yarn dev 
-Para iniciar o "banco de coffees"(JSON-SERVER): yarn server
+Deploy
+Para instalar as dependências: yarn install Para iniciar a aplicação (páginas) : yarn dev Para iniciar o "banco de coffees"(JSON-SERVER): yarn server
